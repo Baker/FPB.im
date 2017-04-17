@@ -12,6 +12,7 @@
 
 .site-title {
     font-size: 26px;
+    font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -35,16 +36,16 @@
         color: $text-color;
         line-height: $base-line-height;
 
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
+        // Gaps between nav items, but not on the last one
+        &:not(:last-child) {
+            margin-right: 20px;
         }
     }
 
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
-        right: 30px;
+        right: $spacing-unit / 2;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
@@ -82,6 +83,11 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+
+            &:not(:last-child) {
+                margin-right: 0;
+            }
+            margin-left: 20px;
         }
     }
 }
@@ -91,9 +97,14 @@
 /**
  * Site footer
  */
+
+.paper-footer-wrapper {
+  margin-top:180;
+}
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $clr-teal-900;
     padding: $spacing-unit 0;
+    margin-top: 100px;
 }
 
 .footer-heading {
@@ -157,7 +168,6 @@
 }
 
 
-
 /**
  * Page content
  */
@@ -176,11 +186,6 @@
     > li {
         margin-bottom: $spacing-unit;
     }
-}
-
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
 }
 
 .post-link {
@@ -233,4 +238,79 @@
             font-size: 18px;
         }
     }
+}
+
+/* Grid layout */
+
+
+
+.masonry-wrapper {
+  width: 100rem;
+  margin-right: auto;
+  margin-left: auto;
+  @include media-query($on-standard-laptop){
+    width: 76rem;
+  }
+  @include media-query($on-medium-laptop) {
+    width: 60rem;
+  }
+  @include media-query($on-small-laptop){
+    width: 49rem;
+  }
+  @include media-query($on-laptop){
+    width: auto;
+    overflow-x: hidden;
+  }
+}
+
+.masonry-content {
+  width: 30%;
+  margin-top: 10px;
+  margin-left: 10px;
+  box-sizing: border-box;
+  @include media-query($on-standard-laptop){
+    width:30%;
+  }
+  @include media-query($on-small-laptop) {
+    width:40%;
+  }
+  @include media-query($on-laptop) {
+    width: 45%;
+  }
+  @include media-query($on-palm){
+    width: 90%;
+    margin-left: 20px;
+  }
+
+  > a {
+      color: none;
+      text-decoration: none;
+      > div {
+          > div {
+              &:hover {
+              opacity: .5;
+            }
+          }
+      }
+  }
+}
+
+/* SEARCH BAR */
+.search-hidden {
+  display:none !important;
+}
+
+.search-box {
+  width: 25%;
+  > div {
+    width: 25%;
+  }
+  > div {
+    width: 25%;
+  }
+}
+
+/* DRAWER */
+.menu-overflow {
+  overflow-x: hidden !important;
 }
