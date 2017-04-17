@@ -8,4 +8,4 @@ I am Francis Baker, I am a 22-year old Full Time Student focusing on Information
 
 I was originally born in Boston, Ma, where I grew up for most of my chi
 
-[umass]:    https://www.uml.du
+[umass]:    https://www.uml.edu
