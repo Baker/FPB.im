@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Francis Baker, I am a 22-year old Full Time Student focusing on Information Technology with a minor in Business from [University of Massachusetts: Lowell](umass). Besides that I love developing websites and currently working on various projects which you I write about very often. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I was originally born in Boston, Ma, where I grew up for most of my chi
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[umass]:    (https://www.uml.du)
