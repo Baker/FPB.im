@@ -13,3 +13,7 @@ behance_username: baker
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jemoji
+  - jekyll-seo-tag
