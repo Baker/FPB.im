@@ -11,17 +11,6 @@
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-              <i class="fa fa-github">
-              </i>
-
-              <span class="username">{{ site.github_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
           {% if site.twitter_username %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -29,6 +18,17 @@
               </i>
 
               <span class="username">{{ site.twitter_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+         
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github">
+              </i>
+
+              <span class="username">{{ site.github_username }}</span>
             </a>
           </li>
           {% endif %}
@@ -40,6 +40,17 @@
               </i>
 
               <span class="username">{{ site.linkedin_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+          
+          {% if site.behance_username %}
+          <li>
+            <a href="https://behance.net/{{ site.behance_username }}">
+              <i class="fa fa-behance">
+              </i>
+
+              <span class="username">{{ site.behance_username }}</span>
             </a>
           </li>
           {% endif %}

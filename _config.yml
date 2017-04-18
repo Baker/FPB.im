@@ -9,6 +9,7 @@ url: "http://FPB.im" # the base hostname & protocol for your site
 twitter_username: frncsbkr
 github_username:  Baker
 linkedin_username: francispbaker
+behance_username: baker
 
 # Build settings
 markdown: kramdown
