@@ -68,7 +68,6 @@ Skills: `Patient`, `Understanding`, `Caring`, `Determined`, `Problem Solving`
 #### Read More
 [NPM: Baker](https://www.npmjs.com/~baker)  
 [Github: Baker](https://github.com/Baker) 
-
 [LinkeIn: FrancisPBaker](https://www.linkedin.com/in/francispbaker/)  
 
 ---
