@@ -83,9 +83,6 @@ Skills: `Communication`, `Gaining Commitment`, `Closing Techniques`, `Active Lis
 - Quinsigamond Community College, CIS: Web Development & Programming,  September 2015 – August 2016  
 - Weymouth High School, Graduated 2013
 
-#### Read More
-[NPM: Baker](https://www.npmjs.com/~baker) - [Github: Baker](https://github.com/Baker) - [LinkeIn: FrancisPBaker](https://www.linkedin.com/in/francispbaker/)  
-
 ---
 
 #### Hobbies
