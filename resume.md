@@ -46,14 +46,14 @@ Skills: `Patient`, `Understanding`, `Caring`, `Determined`
 
 ---
 
-#### Education
+##### Education
 
 University of Massachusetts Lowell, Bachelor of Technology (BTech) - Information Technology, September 2016 Present
 Quinsigamond Community College, CIS: Web Development & Programming,  September 2015 – August 2016  
 Weymouth High School, Graduated 2013
 
-#### Read More
-[npm:Baker](https://npmjs.org/Baker)  
+##### Read More
+[npm:Baker](https://npmjs.org/~Baker)  
 [github:Baker](https://github.com/Baker)  
 
 ---
