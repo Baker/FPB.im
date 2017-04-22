@@ -59,6 +59,24 @@ Skills: `Patient`, `Understanding`, `Caring`, `Determined`, `Problem Solving`
 
 ---
 
+**[Diamond Wireless](http://www.Diamond-Wireless.com/)**  
+*Location - Quincy, MA* 
+
+Small-Medium Business Rep   
+August 2013 - July 2015
+
+- Sell products within assigned territory, maintaining assigned sales quota and following established guidelines.
+- Identify prospects utilizing creative lead generating techniques. 
+- Present sales presentation and proposal to prospects, identifying positive features and advantages of our products and services over those of the competition. Adhere to current ADT policies, procedures, products, programs and services. 
+- Follow up with prospects. 
+- Prepare final contract for signature. 
+- Process work order and complete all paperwork in accordance with approved and standardized procedures. 
+- Maintain customer retention by affirming customer satisfaction after the completion of both 6 and 12 months of service
+
+Skills: `Communication`, `Gaining Commitment`, `Closing Techniques`, `Active Listening`, `Product Knowledge`
+
+---
+
 #### Education
 
 - University of Massachusetts Lowell, Bachelor of Technology (BTech) - Information Technology, September 2016 Present
@@ -66,9 +84,7 @@ Skills: `Patient`, `Understanding`, `Caring`, `Determined`, `Problem Solving`
 - Weymouth High School, Graduated 2013
 
 #### Read More
-[NPM: Baker](https://www.npmjs.com/~baker)  
-[Github: Baker](https://github.com/Baker) 
-[LinkeIn: FrancisPBaker](https://www.linkedin.com/in/francispbaker/)  
+[NPM: Baker](https://www.npmjs.com/~baker) - [Github: Baker](https://github.com/Baker) - [LinkeIn: FrancisPBaker](https://www.linkedin.com/in/francispbaker/)  
 
 ---
 
