@@ -8,6 +8,10 @@ I am Francis Baker, I am a 22-year old Full Time Student focusing on Information
 
 A little more about me, I am currently working for [Apple](https://Apple.com/) as an iOS Senior Advisor from my house, yes working from home is awesome but it does have its challenges, which I may document later and give some tips on how to potentially overcome those. I have been working for Apple now for a little over 1year and 6months so far, it's been a great ride but I am looking to truly get my foot into something more Web Developer related. 
 
+Web Development has always been my true passion but for now I love the Customer Service industry and the Technical Support. I was first truly introduced to the Tech Support when I worked at [Diamond Wireless](http://diamond-wireless.com/) which is a premium Verizon Wireless Authorized Reseller, while working at Diamond Wireless I gained various skills in both Customer Service and Sales which helped me excel at Sales and providing a great experience with Customers which I would still use today. 
+
+I first got into Web Development back in the late 2000's with the basic HTML website's I was creating basic website's with CSS which I thought was the coolest but they never looked like some of the website's I used on a regular basis and I could never figure it out. Until many years later I learned the power of both HTML5 and CSS3 which would later become a huge part of my daily life or so I thought until I was introduced to JavaScript in 2015/2016. JavaScript was always something I heard of and was fearful of learning as well honestly it scared me, this would be a huge stepping stone for me to comprehend JS and take on that challenge. 
+
 
 [umass]:    https://www.uml.edu
 [jekyll]:   https://jekyllrb.com/
