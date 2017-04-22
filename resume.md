@@ -47,7 +47,7 @@ Skills: `Patient`, `Understanding`, `Caring`, `Determined`, `Problem Solving`
 **[Apple Inc](https://www.Apple.com/)**  
 *Location - Remote* 
 
-Mac+ Advisor   
+iOS Advisor   
 August 2015 - July 2016
 
 -	Provide over the phone customer service and technical support to Apple customers in North America.
@@ -82,21 +82,19 @@ Writing, Coding, Fishing, Scuba Diving, Mini-Golf, Pool
 
 | Language           | Expert         | Skilled        | Enthusiastic   |
 |--------------------|----------------|----------------|----------------|
-| Node.js/Javascript |                |✔               |✔              |
-| PHP                |✔              |✔               |                |
-| HTML               |✔              |✔               |                | 
-| CSS                |✔              |✔               |                | 
+| Node.js/Javascript |                |  ✔            |✔               |
+| PHP                |  ✔            |  ✔             |                |
+| HTML               |  ✔            |  ✔             |                | 
+| CSS                |  ✔            |  ✔             |                | 
 
 #### Frameworks
 
 | Framework          | Expert         | Skilled        | Enthusiastic   |
 |--------------------|----------------|----------------|----------------|
-| Angular.JS         |✔               |✔              |✔              |
-| Bootstrap (HTML/CSS)|✔              |✔              |✔              |
-| Bulma (CSS)        |✔               |✔              |               |
-| Animate (CSS)      |✔               |✔              |✔              |
-| Hover (CSS)        |✔               |✔              |✔              |
-| Backbone (js)      |✔               |✔              |                |
-| AngularJS (js)     |                 |✔              |               |
-| express.js (node)  |                 |✔              |               |
+| Angular.JS         |  ✔             |  ✔            |  ✔            |
+| Bootstrap (HTML/CSS)|  ✔            |  ✔            |  ✔            |
+| Bulma (CSS)        |  ✔             |  ✔            |                |
+| Animate (CSS)      |  ✔             |  ✔            |  ✔            |
+| Hover (CSS)        |  ✔             |  ✔            |  ✔            |
+
  
