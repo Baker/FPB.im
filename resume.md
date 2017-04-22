@@ -10,9 +10,7 @@ permalink: /resume/
 Weymouth, MA 02188    
 <francispbaker@gmail.com>
 
-	I am a Software Developer with seven years experience creating Software
-	Experiences, Web Applications, Scalable Data Integration Systems, Tools,
-	Libraries, API's, and Tests.
+	I am customer success guru, I love helping people with various issues involving technology. I have worked for various companies with a proven track record of success.
 
 #### Employment History
 
@@ -53,13 +51,13 @@ Quinsigamond Community College, CIS: Web Development & Programming,  September 2
 Weymouth High School, Graduated 2013
 
 ##### Read More
-[npm:Baker](https://npmjs.org/~Baker)  
-[github:Baker](https://github.com/Baker)  
+[npm: Baker](https://www.npmjs.com/~baker)  
+[github: Baker](https://github.com/Baker)  
 
 ---
 
 ##### Hobbies
-Writing, Motorcycles, Tennis, Raquetball, Golf, Bike Polo.
+Writing, Coding, Fishing, Scuba Diving, Mini-Golf, Pool
 
 ---
 
