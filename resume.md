@@ -94,8 +94,8 @@ Writing, Coding, Fishing, Scuba Diving, Mini-Golf, Pool
 
 | Language           | Expert         | Skilled        | Enthusiastic   |
 |--------------------|----------------|----------------|----------------|
-| Node.js/Javascript |                |  ✔            |✔               |
-| PHP                |  ✔            |  ✔             |                |
+| Node.js/Javascript |                |               |✔               |
+| PHP                |               |  ✔             |                |
 | HTML               |  ✔            |  ✔             |                | 
 | CSS                |  ✔            |  ✔             |                | 
 
@@ -103,9 +103,9 @@ Writing, Coding, Fishing, Scuba Diving, Mini-Golf, Pool
 
 | Framework          | Expert         | Skilled        | Enthusiastic   |
 |--------------------|----------------|----------------|----------------|
-| Angular.JS         |  ✔             |  ✔            |  ✔            |
+| Angular.JS         |                |                |  ✔            |
 | Bootstrap (HTML/CSS)|  ✔            |  ✔            |  ✔            |
-| Bulma (CSS)        |  ✔             |  ✔            |                |
+| Bulma (CSS)        |                |  ✔            |                |
 | Animate (CSS)      |  ✔             |  ✔            |  ✔            |
 | Hover (CSS)        |  ✔             |  ✔            |  ✔            |
 
