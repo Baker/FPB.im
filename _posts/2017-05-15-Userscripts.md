@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Userscripts & Userstyles"
 date:   2017-05-15 00:11:00
 categories: Projects

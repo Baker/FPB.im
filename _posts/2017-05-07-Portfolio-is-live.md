@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "My Portfolio is LIVE!"
 date:   2017-05-17 00:11:00
 categories: Projects
