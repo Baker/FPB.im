@@ -6,8 +6,6 @@ date:   2017-05-17 00:11:00
 categories: Projects
 ---
 
-### My Portfolio is LIVE! 
-
 I get this question a lot with talking to various companies, `Francis do you have a portfolio I can see?` My response prior today has always been sadly no, may make one later. Well, today I threw one together and made it how I make most of my website's nice and dark and beautiful. 
 
 With this portfolio which is completely open source so take a look, fork it, make it your own, etc, I decided to use various CSS Frameworks that I have used in the past, such as [Animate.css](https://daneden.github.io/animate.css/) and [FontAwesome](https://fontawesome.io), if you haven't used either I truly recommend them as they save me so much time all the time with Graphic Design etc. 
